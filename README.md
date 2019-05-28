@@ -1,3 +1,3 @@
 # Chef-CI
 
-Chef CI example
+Chef CI example.
